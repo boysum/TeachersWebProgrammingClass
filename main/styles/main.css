@@ -3,13 +3,16 @@ body{
     padding: 0;
     background: url("../images/1200px-Washington_D.C._Temple_At_Dusk.jpg");
     background-size: 100%;
+    background-position-y: -102px;
+    font-family: 'Indie Flower', cursive;
+
 }
 
 .content-wrapper{
     width: 80%;
     margin: 20px auto;
     background-color: white;
-    height: 80%;
+    height: 90%;
     text-align: center;
     padding: 20px;
     border-radius: 25px;
